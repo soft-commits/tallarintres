@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714929193243",
+    "project_id": "controlasistenciaapp-3ccbb",
+    "storage_bucket": "controlasistenciaapp-3ccbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714929193243:android:91f1f96e9da694510753be",
+        "android_client_info": {
+          "package_name": "com.controlasistencia.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQk2dlzTWJ2M5k13aLg4pkQvOfbRSAOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
